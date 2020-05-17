@@ -10,7 +10,8 @@ body{
 main{
     background-color: cornsilk;
     width: 500px;
+    margin: auto;
     padding: 10px;
-    margin: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px black;
 }
 
